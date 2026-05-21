@@ -188,7 +188,6 @@ cd mem101-raat-ko-pada-subah-exam
 | `Identifier 'mpSection' already declared` | ✅ Fixed | IIFE mein double `const` tha, hata diya |
 | Lag on scroll | ✅ Fixed | `requestAnimationFrame` + `passive:true` + `will-change` |
 | 40 particles on mobile | ✅ Fixed | 20 kar diye, GPU ne shukriya kaha |
-| English slangs | ✅ Fixed | Hinglish kar diya — "bestie" → "bhai" |
 
 ---
 
