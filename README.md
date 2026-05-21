@@ -221,7 +221,7 @@ will-change: transform   → GPU compositor — no paint
 Agar tu bhi MEM101 ka student hai aur koi question choot gaya — PR maar de bhai.
 
 ```bash
-git clone https://github.com/obsidianghost404/mem101-raat-ko-pada-subah-exam
+git clone https://github.com/ObsidianGhost404/Electrical-Mechanical-mem101-Preparation-PUE/blob/main/README.md
 git checkout -b feature/mera-wala-question
 # apna question aur solution add karo
 git commit -m "feat: Q14 ka solution daala jo mujhe bhi samajh nahi aaya"
